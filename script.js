@@ -349,7 +349,7 @@
       am: { name: "ጎመን" } },
     { cat: "fasting", price: 588, img: "A1-shiro",
       en: { name: "Shiro", desc: "Split peas, garlic, white and black cumin, and korarima, simmered to order." },
-      am: { name: "ሽሮ", desc: "ክክ፣ ነጭ ሽንኩርት፣ ነጭና ጥቁር አዝሙድ እንዲሁም ኮሮሪማ በዝግታ ተፈልቶ የሚቀርብ።" } },
+      am: { name: "ሽሮ", desc: "ክክ፣ ነጭ ሽንኩርት፣ ነጭና ጥቁር አዝሙድ እንዲሁም ኮሮሪማ በጥንቃቄ ተዘጋጅቶ የሚቀርብ።" } },
     { cat: "fasting", price: 598, img: "A6-sunflower-crumble",
       en: { name: "Sunflower Crumble", desc: "Made from broad bean and fenugreek." },
       am: { name: "ሱፍ ፍትፍት", desc: "ከባቄላ እና ከአብሽ የተዘጋጀ።" } },
