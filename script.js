@@ -96,10 +96,10 @@
     "hero.contactUs": { en: "Contact Us", am: "ያግኙን" },
 
     "about.eyebrow": { en: "Our Story", am: "ታሪካችን" },
-    "about.title": { en: "A table set with tradition", am: "በባህል የተዘጋጀ ማዕድ" },
+    "about.title": { en: "A table set with tradition", am: "በደንብ የተዘጋጀ ማዕድ" },
     "about.lead": {
       en: "Azmera Shiro is a traditional Ethiopian restaurant specializing in delicious homemade shiro, fasting foods, traditional dishes, fresh juices, and catering services for weddings, meetings, birthdays, and special events.",
-      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ ትኩስ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
+      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
     },
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
     "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በዝግታ የተፈጨ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚፈላ" },
@@ -130,7 +130,7 @@
       am: "ከትንሽ የቤተሰብ ስብሰባ እስከ 500 እንግዳ ሰርግ ድረስ፣ የግብዣ ቡድናችን ሙሉ የመሶብ አገልግሎት እና የቡና ሥነ ሥርዓትን ወደ እርስዎ ያመጣል።"
     },
     "catering.card1.title": { en: "Weddings", am: "ሰርግ" },
-    "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ ባህላዊ የመሶብ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
+    "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ የመሶብ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
     "catering.card2.title": { en: "Corporate Events", am: "የድርጅት ዝግጅቶች" },
     "catering.card2.desc": { en: "Reliable, on-time delivery for launches, retreats and office gatherings.", am: "ለምርቃት፣ ለሪትሪት እና ለቢሮ ስብሰባዎች በሰዓቱ የሚደርስ አስተማማኝ አገልግሎት።" },
     "catering.card3.title": { en: "Meetings", am: "ስብሰባዎች" },
@@ -144,7 +144,7 @@
     "catering.bookBtn": { en: "Book Catering", am: "ግብዣ ይያዙ" },
 
     "reserve.eyebrow": { en: "Book a Table", am: "ጠረጴዛ ይያዙ" },
-    "reserve.title": { en: "Reserve Your Seat at the Mesob", am: "በመሶቡ ላይ ቦታዎን ያስይዙ" },
+    "reserve.title": { en: "Reserve Your Seat at Azmera", am: "በአዝመራ ላይ ቦታዎን ያስይዙ" },
     "reserve.desc": {
       en: "Tell us when you're coming and how many are joining — we'll have your table ready. For groups over 15, please call us directly so we can prepare properly.",
       am: "መቼ እንደሚመጡ እና ለስንት ሰው ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ ቡድኖች እባክዎ በቀጥታ ይደውሉልን።"
@@ -161,7 +161,7 @@
     "form.time": { en: "Time", am: "ሰዓት" },
     "form.guests": { en: "Number of Guests", am: "የእንግዶች ብዛት" },
     "form.notes": { en: "Special Requests", am: "ልዩ ጥያቄዎች" },
-    "form.notesPlaceholder": { en: "Allergies, seating preference, celebration details…", am: "አለርጂ፣ የመቀመጫ ምርጫ፣ የበዓል ዝርዝሮች…" },
+    "form.notesPlaceholder": { en: "Allergies, seating preference, celebration details…", am: "አለርጂ፣ የ ምርጫ፣ የበዓል ዝርዝሮች…" },
     "form.submit": { en: "Send Reservation via WhatsApp", am: "ማስያዣውን በዋትስአፕ ላክ" },
 
     "gallery.eyebrow": { en: "A Look Inside", am: "ውስጣዊ እይታ" },
