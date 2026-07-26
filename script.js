@@ -99,7 +99,7 @@
     "about.title": { en: "A table set with tradition", am: "በደንብ የተዘጋጀ ማዕድ" },
     "about.lead": {
       en: "Azmera Shiro is a traditional Ethiopian restaurant specializing in delicious homemade shiro, fasting foods, traditional dishes, fresh juices, and catering services for weddings, meetings, birthdays, and special events.",
-      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
+      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ ትኩስ የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
     },
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
     "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በዝግታ የተፈጨ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚፈላ" },
@@ -126,11 +126,11 @@
     "catering.eyebrow": { en: "For Every Occasion", am: "ለማንኛውም ዝግጅት" },
     "catering.title": { en: "Catering Services", am: "የግብዣ አገልግሎቶች" },
     "catering.lead": {
-      en: "From an intimate family gathering to a 500-guest wedding, our catering team brings the Azmera Shiro table to you — full mesob service, coffee ceremony and all.",
-      am: "ከትንሽ የቤተሰብ ስብሰባ እስከ 500 እንግዳ ሰርግ ድረስ፣ የግብዣ ቡድናችን ሙሉ የመሶብ አገልግሎት እና የቡና ሥነ ሥርዓትን ወደ እርስዎ ያመጣል።"
+      en: "From an intimate family gathering to a 500-guest wedding, our catering team brings the Azmera Shiro buffet to you — full mesob service, coffee ceremony and all.",
+      am: "ከትንሽ የቤተሰብ ስብሰባ እስከ 500 እንግዳ ሰርግ ድረስ፣ የግብዣ ቡድናችን ሙሉ የቡፌ አገልግሎት እና የቡና ሥነ ሥርዓትን ወደ እርስዎ ያመጣል።"
     },
     "catering.card1.title": { en: "Weddings", am: "ሰርግ" },
-    "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ የመሶብ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
+    "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ የቡፌ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
     "catering.card2.title": { en: "Corporate Events", am: "የድርጅት ዝግጅቶች" },
     "catering.card2.desc": { en: "Reliable, on-time delivery for launches, retreats and office gatherings.", am: "ለምርቃት፣ ለሪትሪት እና ለቢሮ ስብሰባዎች በሰዓቱ የሚደርስ አስተማማኝ አገልግሎት።" },
     "catering.card3.title": { en: "Meetings", am: "ስብሰባዎች" },
@@ -281,7 +281,7 @@
 
   const MENU = [
     // Fasting Food / የጾም ምግቦች
-    { cat: "fasting", price: 20000, img: "A124-agelgil-fasting",
+    { cat: "fasting", price: 2000, img: "A124-agelgil-fasting",
       en: { name: "Agelgil, Fasting (Full Basket)" },
       am: { name: "አገልግል የጾም" } },
     { cat: "fasting", price: 1198, img: "A70-agelgil-full",
