@@ -99,7 +99,7 @@
     "about.title": { en: "A table set with tradition", am: "በባህል የተዘጋጀ ማዕድ" },
     "about.lead": {
       en: "Azmera Shiro is a traditional Ethiopian restaurant specializing in delicious homemade shiro, fasting foods, traditional dishes, fresh juices, and catering services for weddings, meetings, birthdays, and special events.",
-      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ ባህላዊ ምግቦች፣ ትኩስ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ ባህላዊ የኢትዮጵያ ምግብ ቤት ነው።"
+      am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ ትኩስ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
     },
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
     "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በዝግታ የተፈጨ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚፈላ" },
@@ -147,7 +147,7 @@
     "reserve.title": { en: "Reserve Your Seat at the Mesob", am: "በመሶቡ ላይ ቦታዎን ያስይዙ" },
     "reserve.desc": {
       en: "Tell us when you're coming and how many are joining — we'll have your table ready. For groups over 15, please call us directly so we can prepare properly.",
-      am: "መቼ እንደሚመጡ እና ስንት እንደሆኑ ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ ቡድኖች እባክዎ በቀጥታ ይደውሉልን።"
+      am: "መቼ እንደሚመጡ እና ለስንት ሰው ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ ቡድኖች እባክዎ በቀጥታ ይደውሉልን።"
     },
     "reserve.hoursLabel": { en: "Hours", am: "ሰዓታት" },
     "reserve.hoursValue": { en: "Monday – Sunday, 7:00 AM – 10:00 PM", am: "ሰኞ – እሁድ፣ 1:00 ጠዋት – 4:00 ማታ" },
