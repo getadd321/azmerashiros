@@ -102,7 +102,7 @@
       am: "አዝመራ ሽሮ ጣፋጭ ልዩ ሽሮ፣ የጾም ምግቦች፣ የፍስክ ምግቦች፣ ትኩስ የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
     },
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
-    "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በዝግታ የተፈጨ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚፈላ" },
+    "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በጥንቃቄ በተቀመመ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚቀርብ" },
     "about.point2.title": { en: "Vegan-friendly menu", am: "የጾም ሜኑ" },
     "about.point2.desc": { en: "Full vegan & vegeterian dishes, always available", am: "ሙሉ የጾም ምግቦች ሁሌም ይገኛሉ" },
     "about.point3.title": { en: "Full-service catering", am: "ሙሉ የግብዣ አገልግሎት" },
