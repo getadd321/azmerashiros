@@ -132,22 +132,22 @@
     "catering.card1.title": { en: "Weddings", am: "ሰርግ" },
     "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ የቡፌ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
     "catering.card2.title": { en: "Corporate Events", am: "የድርጅት ዝግጅቶች" },
-    "catering.card2.desc": { en: "Reliable, on-time delivery for launches, retreats and office gatherings.", am: "ለምርቃት፣ ለሪትሪት እና ለቢሮ ስብሰባዎች በሰዓቱ የሚደርስ አስተማማኝ አገልግሎት።" },
+    "catering.card2.desc": { en: "Reliable, on-time delivery for launches, retreats and office gatherings.", am: "ለምርቃት፣ ለምስጋና እና ለቢሮ ስብሰባዎች በሰዓቱ የሚደርስ አስተማማኝ አገልግሎት።" },
     "catering.card3.title": { en: "Meetings", am: "ስብሰባዎች" },
-    "catering.card3.desc": { en: "Working lunches, coffee ceremony breaks, and boxed shiro platters.", am: "የስራ ምሳ፣ የቡና ዕረፍት እና የታሸገ ሽሮ ምግብ።" },
+    "catering.card3.desc": { en: "Working lunches, coffee ceremony breaks, and boxed/agelgil platters.", am: "የስራ ምሳ፣ የቡና ዕረፍት እና የአግልግል ምግብ።" },
     "catering.card4.title": { en: "Birthday Parties", am: "የልደት በዓላት" },
-    "catering.card4.desc": { en: "Colorful spreads for kids and adults, from finger food to full menus.", am: "ለልጆችና ለአዋቂዎች ከቀላል መክሰስ እስከ ሙሉ ሜኑ ያሉ ቀለም ያላቸው ዝግጅቶች።" },
+    "catering.card4.desc": { en: "Colorful spreads for kids and adults, from finger food to full menus.", am: "ለልጆችና ለአዋቂዎች ከቀላል መክሰስ እስከ ሙሉ ሜኑ አሸብራቂ ዝግጅቶች።" },
     "catering.card5.title": { en: "Graduation", am: "ምረቃ" },
     "catering.card5.desc": { en: "Celebrate milestones with a festive spread for family and friends.", am: "ከቤተሰብ እና ከጓደኞች ጋር ስኬትን በደማቅ ግብዣ ያክብሩ።" },
     "catering.card6.title": { en: "Family Gatherings", am: "የቤተሰብ ስብሰባዎች" },
-    "catering.card6.desc": { en: "Home-style comfort food, sized for reunions of any size.", am: "ለማንኛውም መጠን ስብሰባ የሚሆን የቤት ውስጥ ዓይነት ምግብ።" },
+    "catering.card6.desc": { en: "Home-style comfort food, sized for reunions of any size.", am: "ለማንኛውም መሰባሰብ የሚሆን እንደቤተሰብ ተስተናግደው የሚመገቡት።" },
     "catering.bookBtn": { en: "Book Catering", am: "ግብዣ ይያዙ" },
 
     "reserve.eyebrow": { en: "Book a Table", am: "ጠረጴዛ ይያዙ" },
     "reserve.title": { en: "Reserve Your Seat at Azmera", am: "በአዝመራ ላይ ቦታዎን ያስይዙ" },
     "reserve.desc": {
       en: "Tell us when you're coming and how many are joining — we'll have your table ready. For groups over 15, please call us directly so we can prepare properly.",
-      am: "መቼ እንደሚመጡ እና ለስንት ሰው ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ ቡድኖች እባክዎ በቀጥታ ይደውሉልን።"
+      am: "መቼ እንደሚመጡ እና ለስንት ሰው ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ እንግዶች እባክዎ በቀጥታ ይደውሉልን።"
     },
     "reserve.hoursLabel": { en: "Hours", am: "ሰዓታት" },
     "reserve.hoursValue": { en: "Monday – Sunday, 7:00 AM – 10:00 PM", am: "ሰኞ – እሁድ፣ 1:00 ጠዋት – 4:00 ማታ" },
