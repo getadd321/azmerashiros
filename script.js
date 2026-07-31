@@ -669,7 +669,7 @@
       en: { name: "Habesha Beer" },
       am: { name: "ሐበሻ" } },
     { cat: "extras", price: 200, img: "StGorge",
-      en: { name: "Giorgis Beer (Cottage Cheese)" },
+      en: { name: "Giorgis Beer" },
       am: { name: "ጊዮርጊስ ቢራ" } },
     { cat: "extras", price: 200, img: "heineken",
       en: { name: "Heineken Beer" },
