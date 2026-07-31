@@ -127,7 +127,7 @@
     "catering.title": { en: "Catering Services", am: "የግብዣ አገልግሎቶች" },
     "catering.lead": {
       en: "From an intimate family gathering to a 500-guest wedding, our catering team brings the Azmera Shiro buffet to you — full mesob service, coffee ceremony and all.",
-      am: "ከትንሽ የቤተሰብ ስብሰባ እስከ የ500 እንግዳ ሰርግ ድረስ፣ የግብዣ ቡድናችን ሙሉ የቡፌ አገልግሎት እና የቡና ሥነ ሥርዓትን ወደ እርስዎ ያመጣል።"
+      am: "ከትንሽ የቤተሰብ ስብሰባ እስከ የ500 እንግዳ ሰርግ ድረስ፣ የካተሪንግ (የግብዣ) ቡድናችን ሙሉ የቡፌ አገልግሎት እና የቡና ሥነ ሥርዓትን ወደ እርስዎ ያመጣል።"
     },
     "catering.card1.title": { en: "Weddings", am: "ሰርግ" },
     "catering.card1.desc": { en: "Traditional mesob spreads and modern buffet setups for your big day.", am: "ለታላቁ ቀንዎ የቡፌ አቀራረብ እና ዘመናዊ ቡፌ አዘገጃጀት።" },
@@ -196,10 +196,10 @@
     "reviews.eyebrow": { en: "What Guests Say", am: "እንግዶቻችን ምን ይላሉ" },
     "reviews.title": { en: "Customer Reviews", am: "የደንበኞች አስተያየት" },
     "reviews.r1": { en: "\u201cThe special shiro tastes exactly like my grandmother's. This is my family's go-to spot for Sunday lunch.\u201d", am: "\u201cየስፔሻል ሽሮው ጣዕም እንደ አያቴ ሽሮ ነው። ለቤተሰቤ የእሁድ ምሳ መደበኛ ቦታችን ነው።\u201d" },
-    "reviews.r2": { en: "\u201cCatered our office retreat and every single tray came back empty. Punctual, generous portions, great flavor.\u201d", am: "\u201cየቢሮ ዝግጅታችንን አገለገሉ፣ ሁሉም ትሪ ባዶ ሆኖ ተመልሷል። በሰዓቱ፣ በልግስና እና ጣፋጭ።\u201d" },
+    "reviews.r2": { en: "\u201cCatered our office retreat and every single tray came back empty. Punctual, generous portions, great flavor.\u201d", am: "\u201cየቢሮ ዝግጅታችንን ቡፌ ሲያቀርቡ፣ ሁሉም ትሪ ባዶ ሆኖ ተመልሷል። በሰዓቱ፣ በልግስና እና ጣፋጭ።\u201d" },
     "reviews.r2role": { en: "Corporate Client", am: "የድርጅት ደንበኛ" },
-    "reviews.r3": { en: "\u201cWarm staff, cozy interior, and a coffee ceremony that made our anniversary dinner feel truly special.\u201d", am: "\u201cደግ ሰራተኞች፣ ምቹ አካባቢ እና የጋብቻ በዓላችንን ልዩ ያደረገው የቡና ሥነ ሥርዓት።\u201d" },
-    "reviews.r4": { en: "\u201cBest fasting menu in Bole. Big portions, fresh ingredients, and they never rush you out.\u201d", am: "\u201cበቦሌ ምርጥ የጾም ሜኑ። በቂ መጠን፣ ትኩስ ግብዓት እና በደንብ የተዘጋጀ።\u201d" },
+    "reviews.r3": { en: "\u201cWarm staff, cozy interior, and a coffee ceremony that made our anniversary dinner feel truly special.\u201d", am: "\u201cደግ ሰራተኞች፣ ምቹ አካባቢ እና የጋብቻ በዓላችንን ልዩ ያደረገው አቀራረብ፣ ጣዕም እና የቡና ሥነ ሥርዓት።\u201d" },
+    "reviews.r4": { en: "\u201cBest fasting menu in Bole. Big portions, fresh ingredients, and they never rush you out.\u201d", am: "\u201cበቦሌ ምርጥ የጾም ሜኑ። በየአይነቱ፣ ትኩስ ግብዓት እና በደንብ የተዘጋጀ።\u201d" },
 
     "faq.eyebrow": { en: "Good to Know", am: "ጠቃሚ መረጃ" },
     "faq.title": { en: "Frequently Asked Questions", am: "ተደጋጋሚ ጥያቄዎች" },
@@ -208,13 +208,13 @@
     "faq.q2": { en: "Can I reserve tables?", am: "ጠረጴዛ ማስያዝ እችላለሁ?" },
     "faq.a2": { en: "Absolutely. Use the reservation form above with your date, time and party size, or call us directly for groups larger than 15 guests.", am: "አዎ። ከላይ ያለውን የማስያዣ ቅጽ በቀን፣ ሰዓት እና የቡድን መጠን ይሙሉ፣ ወይም ከ15 እንግዶች በላይ ለሆኑ ቡድኖች በቀጥታ ይደውሉልን።" },
     "faq.q3": { en: "Do you deliver?", am: "ማድረስ ይችላሉ?" },
-    "faq.a3": { en: "We offer delivery within Bole and nearby areas. Message us on WhatsApp or Telegram to check availability for your location.", am: "በቦሌ እና 22 በአካባቢው ማድረስ እንችላለን። ለማረጋገጥ በዋትስአፕ ወይም በቴሌግራም ይላኩልን።" },
+    "faq.a3": { en: "We offer delivery within Bole,Hayahulet and nearby areas. Message us on WhatsApp or Telegram to check availability for your location.", am: "በቦሌ ፣ በ22 እና በአካባቢው ማድረስ እንችላለን። ለማረጋገጥ በዋትስአፕ ወይም በቴሌግራም ይላኩልን።" },
     "faq.q4": { en: "Do you prepare fasting foods?", am: "የጾም ምግብ ያዘጋጃሉ?" },
     "faq.a4": { en: "Yes, our fasting (ye-tsome) menu is available every day and includes a full range of vegan shiro, misir wot, gomen and more.", am: "አዎ፣ የጾም ሜኑያችን በየቀኑ ይገኛል፤ ሙሉ የሽሮ፣ የምስር ወጥ፣ የጎመን ምግቦችን ያካትታል።" },
     "faq.q5": { en: "Do you accept large group bookings?", am: "በቡድን ለሚመጡ ቦታ ወይም ጠረጴዛ ማስያዝ ይቻላል?" },
     "faq.a5": { en: "We regularly host groups of 20–100+ for celebrations and corporate events. Call ahead so our team can prepare seating and menu in advance.", am: "ከ20–100+ እንግዶችን ለበዓላት እና ለተለያዩ ዝግጅቶች እናስተናግዳለን። ቡድናችን ቦታ እና ምግብ አስቀድሞ እንዲያዘጋጅ ቀድመው ይደውሉ።" },
 
-    "footer.tagline": { en: "Authentic Ethiopian flavors, served fresh every day, in Bole & Hayahulet, Addis Ababa.", am: "ትክክለኛ የኢትዮጵያ ጣዕም፣ በየቀኑ ትኩስ ሆኖ በቦሌና 22፣ አዲስ አበባ ይቀርባል።" },
+    "footer.tagline": { en: "Authentic Ethiopian flavors, served fresh every day, in Bole & Hayahulet, Addis Ababa.", am: "ትክክለኛ የኢትዮጵያ ጣዕም፣ በየቀኑ ትኩስ ሆኖ በቦሌና በ22፣ አዲስ አበባ ይቀርባል።" },
     "footer.quickLinks": { en: "Quick Links", am: "ፈጣን አገናኞች" },
     "footer.hours": { en: "Hours", am: "ሰዓታት" },
     "footer.hoursValue1": { en: "Monday – Sunday", am: "ሰኞ – እሁድ" },
