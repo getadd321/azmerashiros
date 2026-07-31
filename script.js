@@ -104,7 +104,7 @@
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
     "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በጥንቃቄ በተቀመመ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚቀርብ" },
     "about.point2.title": { en: "Vegan & non-Vegan friendly menu", am: "የጾምና የፍስክ ሜኑ" },
-    "about.point2.desc": { en: "Full vegan & vegeterian dishes, always available", am: "ሙሉ የጾም ምግቦች ሁሌም ይገኛሉ" },
+    "about.point2.desc": { en: "Full vegan, non-vegan & vegeterian dishes, always available", am: "ሙሉ የጾምና የፍስክ ምግቦች ሁሌም ይገኛሉ" },
     "about.point3.title": { en: "Full-service catering", am: "ሙሉ የግብዣ አገልግሎት" },
     "about.point3.desc": { en: "Weddings, meetings, birthdays & special events", am: "ለሰርግ፣ ስብሰባ፣ ልደት እና ልዩ ዝግጅቶች" },
 
