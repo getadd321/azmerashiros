@@ -281,9 +281,7 @@
 
   const MENU = [
     // Fasting Food / የጾም ምግቦች
-    { cat: "fasting", price: 2000, img: "A124-agelgil-fasting",
-      en: { name: "Agelgil, Fasting (Full Basket)" },
-      am: { name: "አገልግል የጾም" } },
+   
     { cat: "fasting", price: 1198, img: "A70-agelgil-full",
       en: { name: "Agelgil, Full (Fasting)" },
       am: { name: "ሙሉ የፆም አገልግል" } },
@@ -673,25 +671,25 @@
       en: { name: "Iced Tea" },
       am: { name: "አይስ ቲ" } },
     // Wine-Beer / ወይን፟ቢራ
-    { cat: "extras", price: 198, img: "avocado,ethiopianfood",
+    { cat: "extras", price: 150, img: "avocado,ethiopianfood",
       en: { name: "Habesha Beer" },
       am: { name: "ሐበሻ" } },
-    { cat: "extras", price: 59, img: "ayib,ethiopianfood",
+    { cat: "extras", price: 150, img: "ayib,ethiopianfood",
       en: { name: "Giorgis Beer (Cottage Cheese)" },
       am: { name: "ጊዮርጊስ ቢራ" } },
-    { cat: "extras", price: 35, img: "bread,ethiopianfood",
+    { cat: "extras", price: 150, img: "bread,ethiopianfood",
       en: { name: "Heineken Beer" },
       am: { name: "ሀይኒከን ቢራ" } },
-    { cat: "extras", price: 120, img: "butter,ethiopianfood",
+    { cat: "extras", price: 3200, img: "butter,ethiopianfood",
       en: { name: "Rift Valley Cabernet" },
       am: { name: "ሪፍትቫሊ ከባድ ወይን " } },
-    { cat: "extras", price: 10, img: "cup,ethiopianfood",
+    { cat: "extras", price: 2800, img: "cup,ethiopianfood",
       en: { name: "Rift Valley Cuvée" },
       am: { name: "ሪፍትቫሊ ቀላል ወይን" } },
-    { cat: "extras", price: 60, img: "egg,ethiopianfood",
+    { cat: "extras", price: 2500, img: "egg,ethiopianfood",
       en: { name: "Acacia Dry Red" },
       am: { name: "አካቻ ቀይ ወይን" } },
-    { cat: "extras", price: 59, img: "honey,ethiopianfood",
+    { cat: "extras", price: 2500, img: "honey,ethiopianfood",
       en: { name: "Axumit" },
       am: { name: "አክሱማዊት ወይን" } },
    
