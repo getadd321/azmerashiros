@@ -99,7 +99,7 @@
     "about.title": { en: "A table set with tradition", am: "በደንብ የተዘጋጀ ማዕድ" },
     "about.lead": {
       en: "Azmera Shiro is a traditional Ethiopian restaurant specializing in delicious homemade shiro, fasting foods, traditional dishes, seed juices, and catering services for weddings, meetings, birthdays, and special events.",
-      am: "አዝመራ ሽሮ ወግ እና ባህል የጠበቀ ልዩ ጣዕም ያላቸው የጾም ምግቦች፣ የፍስክ ምግቦች፣ እንዲሁም የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
+      am: "አዝመራ ሽሮ ወግ እና ባህል የጠበቀ ልዩ ጣዕም ያላቸው የጾም ምግቦች፣ የፍስክ ምግቦች፣ የተልባና ሱፍ ጭማቂዎችን እንዲሁም ለሰርግ፣ ለስብሰባ፣ ለልደት እና ለልዩ ዝግጅቶች ካተሪንግ ወይም የግብዣ አገልግሎትን የሚያቀርብ የኢትዮጵያ ምግብ ቤት ነው።"
     },
     "about.point1.title": { en: "Special shiro", am: "ልዩ ሽሮ" },
     "about.point1.desc": { en: "Slow-ground berbere and chickpea flour, simmered daily", am: "በጥንቃቄ በተቀመመ በርበሬ እና የሽንብራ ዱቄት፣ በየቀኑ የሚቀርብ" },
