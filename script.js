@@ -162,7 +162,7 @@
     "form.guests": { en: "Number of Guests", am: "የእንግዶች ብዛት" },
     "form.notes": { en: "Special Requests", am: "ልዩ ጥያቄዎች" },
     "form.notesPlaceholder": { en: "Allergies, seating preference, celebration details…", am: "አለርጂ፣ የቦታ ምርጫ፣ የበዓል ዝርዝሮች…" },
-    "form.submit": { en: "Send Reservation via WhatsApp", am: "ማስያዣውን በዋትስአፕ ላክ" },
+    "form.submit": { en: "Send Reservation via WhatsApp", am: "ማስያዣውን በዋትስአፕ ይላኩ" },
 
     "gallery.eyebrow": { en: "A Look Inside", am: "ውስጣዊ እይታ" },
     "gallery.title": { en: "Gallery", am: "ማዕከለ ስዕላት" },
@@ -173,10 +173,10 @@
     "location.address": { en: "Two locations in Addis Ababa", am: "በአዲስ አበባ ሁለት ቅርንጫፎች" },
     "location.branch1.name": { en: "Azmera Shiro — Bole Atlas", am: "አዝመራ ሽሮ — ቦሌ አትላስ" },
     "location.branch1.address": { en: "Bole, Addis Ababa, Ethiopia", am: "ቦሌ፣ አዲስ አበባ፣ ኢትዮጵያ" },
-    "location.branch2.name": { en: "Azmera — Hayahulet", am: "አዝመራ ሽሮ — 22" }, 
+    "location.branch2.name": { en: "Azmera Shiro — Hayahulet", am: "አዝመራ ሽሮ — 22" }, 
     "location.branch2.address": { en: "Hayahulet, Addis Ababa, Ethiopia", am: "ሃያሁለት፣ አዲስ አበባ፣ ኢትዮጵያ" },
     "location.openMaps": { en: "Open in Google Maps", am: "በGoogle Maps ይክፈቱ" },
-    "location.getDirections": { en: "Get Directions", am: "አቅጣጫ ያግኙ" },
+    "location.getDirections": { en: "Get Directions", am: "አቅጣጫ ይመልከቱ" },
 
     "contact.eyebrow": { en: "Get in Touch", am: "ያግኙን" },
     "contact.title": { en: "Contact Us", am: "አግኙን" },
