@@ -667,7 +667,7 @@
     // Wine-Beer / ወይን፟ቢራ
     { cat: "extras", price: 200, img: "habesha",
       en: { name: "Habesha Beer" },
-      am: { name: "ሐበሻ" } },
+      am: { name: "ሐበሻ ቢራ" } },
     { cat: "extras", price: 200, img: "StGorge",
       en: { name: "Giorgis Beer" },
       am: { name: "ጊዮርጊስ ቢራ" } },
