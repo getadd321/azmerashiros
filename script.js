@@ -144,7 +144,7 @@
     "catering.bookBtn": { en: "Book Catering", am: "ግብዣ ይያዙ" },
 
     "reserve.eyebrow": { en: "Book a Table", am: "ጠረጴዛ ይያዙ" },
-    "reserve.title": { en: "Reserve Your Seat at Azmera", am: "በአዝመራ ላይ ቦታዎን ያስይዙ" },
+    "reserve.title": { en: "Reserve Your Seat at Azmera", am: "በአዝመራ ቦታዎን ያስይዙ" },
     "reserve.desc": {
       en: "Tell us when you're coming and how many are joining — we'll have your table ready. For groups over 15, please call us directly so we can prepare properly.",
       am: "መቼ እንደሚመጡ እና ለስንት ሰው ይንገሩን — ጠረጴዛዎ ዝግጁ ይሆናል። ከ15 በላይ ለሆኑ እንግዶች እባክዎ በቀጥታ ይደውሉልን።"
@@ -152,7 +152,7 @@
     "reserve.hoursLabel": { en: "Hours", am: "ሰዓታት" },
     "reserve.hoursValue": { en: "Monday – Sunday, 7:00 AM – 10:00 PM", am: "ሰኞ – እሁድ፣ 1:00 ጠዋት – 4:00 ማታ" },
     "reserve.phoneLabel": { en: "Phone", am: "ስልክ" },
-    "reserve.whatsappNote": { en: "Tapping the button below opens WhatsApp with your details filled in — just hit send to reach us.", am: "ከታች ያለውን ቁልፍ ሲነኩ ዝርዝርዎ የተሞላበት ዋትስአፕ ይከፈታል — ለመላክ ብቻ ይጫኑ።" },
+    "reserve.whatsappNote": { en: "Tapping the button below opens WhatsApp with your details filled in — just hit send to reach us.", am: "ከታች ያለውን በተን ሲነኩ ዝርዝርዎ የተሞላበት ዋትስአፕ ይከፈታል — ለመላክ ብቻ ይጫኑ።" },
 
     "form.name": { en: "Full Name", am: "ሙሉ ስም" },
     "form.phone": { en: "Phone Number", am: "ስልክ ቁጥር" },
