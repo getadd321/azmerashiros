@@ -197,10 +197,10 @@
     "reviews.eyebrow": { en: "What Guests Say", am: "እንግዶቻችን ምን ይላሉ" },
     "reviews.title": { en: "Customer Reviews", am: "የደንበኞች አስተያየት" },
     "reviews.r1": { en: "\u201cThe special shiro tastes exactly like my grandmother's. This is my family's go-to spot for Sunday lunch.\u201d", am: "\u201cየስፔሻል ሽሮው ጣዕም እንደ አያቴ ሽሮ ነው። ለቤተሰቤ የእሁድ ምሳ መደበኛ ቦታችን ነው።\u201d" },
-    "reviews.r2": { en: "\u201cCatered our office retreat and every single tray came back empty. Punctual, generous portions, great flavor.\u201d", am: "\u201cየቢሮ ዝግጅታችንን ቡፌ ሲያቀርቡ፣ ሁሉም ትሪ ባዶ ሆኖ ተመልሷል። በሰዓቱ፣ በልግስና እና ጣፋጭ።\u201d" },
+    "reviews.r2": { en: "\u201cCatered our office retreat and every single tray came back empty. Punctual, more than enough portions, great flavor.\u201d", am: "\u201cየቢሮ ዝግጅታችንን ቡፌ ሲያቀርቡ፣ ሁሉም ትሪ ባዶ ሆኖ ተመልሷል። ሰዓት አክባሪ፣ ሙሉ እና ጣፋጭ።\u201d" },
     "reviews.r2role": { en: "Corporate Client", am: "የድርጅት ደንበኛ" },
-    "reviews.r3": { en: "\u201cWarm staff, cozy interior, and a coffee ceremony that made our anniversary dinner feel truly special.\u201d", am: "\u201cደግ ሰራተኞች፣ ምቹ አካባቢ እና የጋብቻ በዓላችንን ልዩ ያደረገው አቀራረብ፣ ጣዕም እና የቡና ሥነ ሥርዓት።\u201d" },
-    "reviews.r4": { en: "\u201cBest fasting menu in Bole. Big portions, fresh ingredients, and they never rush you out.\u201d", am: "\u201cበቦሌ ምርጥ የጾም ሜኑ። በየአይነቱ፣ ትኩስ ግብዓት እና በደንብ የተዘጋጀ።\u201d" },
+    "reviews.r3": { en: "\u201cWarm staff, amayzing decoration,full buffet and coffee ceremony that made our anniversary feel truly special.\u201d", am: "\u201cደግ ሰራተኞች በምቹ አዘገጃጀት የጋብቻ በዓላችንን ልዩና የሚያምር አድርገውታል፣ የምግቡ ዓይነትና ጣዕም እንዲሁም የቡና ሥነ ሥርዓቱ ወደነዋል።\u201d" },
+    "reviews.r4": { en: "\u201cBest fasting menu in Bole. Big portions, fresh ingredients, and they never rush you out.\u201d", am: "\u201cበቦሌ ምርጥ የጾም ሜኑ። በየአይነቱ፣ ትኩስ እና በደንብ የተዘጋጀና ተረጋገተው የሚመገቡት።\u201d" },
 
     "faq.eyebrow": { en: "Good to Know", am: "ጠቃሚ መረጃ" },
     "faq.title": { en: "Frequently Asked Questions", am: "ተደጋጋሚ ጥያቄዎች" },
