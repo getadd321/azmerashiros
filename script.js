@@ -151,7 +151,8 @@
     },
     "reserve.hoursLabel": { en: "Hours", am: "ሰዓታት" },
     "reserve.hoursValue": { en: "Monday – Sunday, 7:00 AM – 10:00 PM", am: "ሰኞ – እሁድ፣ 1:00 ጠዋት – 4:00 ማታ" },
-    "reserve.phoneLabel": { en: "Phone", am: "ስልክ" },
+    "reserve.phoneLabel1": { en: "Bole Atlas", am: "ቦሌ አትላስ" },
+    "reserve.phoneLabel2": { en: "Haya Hulet", am: "ሃያ ሁለት" },
     "reserve.whatsappNote": { en: "Tapping the button below opens WhatsApp with your details filled in — just hit send to reach us.", am: "ከታች ያለውን በተን ሲነኩ ዝርዝርዎ የተሞላበት ዋትስአፕ ይከፈታል — ለመላክ ብቻ ይጫኑ።" },
 
     "form.name": { en: "Full Name", am: "ሙሉ ስም" },
