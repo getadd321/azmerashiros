@@ -215,7 +215,7 @@
     "faq.q5": { en: "Do you accept large group bookings?", am: "በቡድን ለሚመጡ ቦታ ወይም ጠረጴዛ ማስያዝ ይቻላል?" },
     "faq.a5": { en: "We regularly host groups of 20–100+ for celebrations and corporate events. Call ahead so our team can prepare seating and menu in advance.", am: "ከ20–100+ እንግዶችን ለበዓላት እና ለተለያዩ ዝግጅቶች እናስተናግዳለን። ቡድናችን ቦታ እና ምግብ አስቀድሞ እንዲያዘጋጅ ቀድመው ይደውሉ።" },
 
-    "footer.tagline": { en: "Authentic Ethiopian flavors, served fresh every day, in Bole & Hayahulet, Addis Ababa.", am: "ትክክለኛ የኢትዮጵያ ጣዕም፣ በየቀኑ ትኩስ ሆኖ በቦሌና በ22፣ አዲስ አበባ ይቀርባል።" },
+    "footer.tagline": { en: "Authentic Ethiopian flavors, served fresh every day, in Bole & Hayahulet, Addis Ababa.", am: "ትክክለኛ የኢትዮጵያ ጣዕም፣ በየቀኑ ትኩስ ሆኖ በቦሌና በሃያሁለት ይቀርባል።" },
     "footer.quickLinks": { en: "Quick Links", am: "ፈጣን አገናኞች" },
     "footer.hours": { en: "Hours", am: "ሰዓታት" },
     "footer.hoursValue1": { en: "Monday – Sunday", am: "ሰኞ – እሁድ" },
