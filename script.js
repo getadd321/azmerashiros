@@ -82,7 +82,7 @@
     "nav.about": { en: "About", am: "ስለ እኛ" },
     "nav.menu": { en: "Menu", am: "ሜኑ" },
     "nav.catering": { en: "Catering", am: "ግብዣ አገልግሎት" },
-    "nav.reserve": { en: "Reserve", am: "ማስያዣ" },
+    "nav.reserve": { en: "Reserve", am: "ቦታ ያስይዙ" },
     "nav.gallery": { en: "Gallery", am: "ማዕከለ ስዕላት" },
     "nav.location": { en: "Location", am: "አድራሻ" },
     "nav.contact": { en: "Contact", am: "አግኙን" },
