@@ -259,7 +259,7 @@ h2 { font-family: var(--font-display); color: var(--brown); font-weight: 600; }
 @keyframes fade-down { from { opacity: 0; transform: translateY(-24px); } to { opacity: 1; transform: translateY(0); } }
 
 .hero__scroll {
-  position: absolute; bottom: 28px; left: 50%; transform: translateX(-50%);
+  position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%);
   width: 28px; height: 44px; border: 2px solid rgba(255,255,255,.7); border-radius: 20px;
   z-index: 1;
 }
