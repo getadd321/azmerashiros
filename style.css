@@ -230,7 +230,7 @@ h2 { font-family: var(--font-display); color: var(--brown); font-weight: 600; }
 }
 .hero__content { position: relative; z-index: 1; padding: 7rem 1.5rem 4rem; max-width: 780px; }
 .hero__logo {
-  height: 120px; width: auto; margin: 0 auto 1.4rem;
+  height: 110px; width: auto; margin: 0 auto 1.4rem;
   filter: drop-shadow(0 6px 18px rgba(0,0,0,.35));
   animation: fade-down .9s var(--ease) both;
 }
