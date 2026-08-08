@@ -464,7 +464,7 @@
     { cat: "breakfast", price: 588, img: "A26-bulla-porridge",
       en: { name: "Bulla Porridge (Fasting)" },
       am: { name: "የቡላ ገንፎ የጾም" } },
-    { cat: "fasting", price: 648, img: "A21-kinche-with-chechebsa",
+    { cat: "breakfast", price: 648, img: "A21-kinche-with-chechebsa",
       en: { name: "Kinche with Chechebsa (Half & Half)" },
       am: { name: "ቅንጬ፡በጨጨብሳ1/2 1/2" } },
     { cat: "breakfast", price: 548, img: "A33-chechebsa",
