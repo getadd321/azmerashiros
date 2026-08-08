@@ -230,13 +230,13 @@ h2 { font-family: var(--font-display); color: var(--brown); font-weight: 600; }
 }
 .hero__content { position: relative; z-index: 1; padding: 7rem 1.5rem 4rem; max-width: 780px; }
 .hero__logo {
-  height: 110px; width: auto; margin: 0 auto 1.4rem;
+  height: 110px; width: auto; margin: 0 auto 1.1rem;
   filter: drop-shadow(0 6px 18px rgba(0,0,0,.35));
   animation: fade-down .9s var(--ease) both;
 }
 .hero__eyebrow {
   font-weight: 700; letter-spacing: .18em; text-transform: uppercase; font-size: .8rem;
-  color: var(--gold-light); margin: 0 0 .8rem;
+  color: var(--gold-light); margin: 0 0 .6rem;
   animation: fade-up .9s .1s var(--ease) both;
 }
 .hero__title {
