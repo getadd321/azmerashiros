@@ -556,7 +556,7 @@
     { cat: "coffee", price: 100, img: "A105-macchiato",
       en: { name: "Macchiato" },
       am: { name: "ማኪያቶ" } },
-    { cat: "tea", price: 130, img: "A190-hot-chocolate",
+    { cat: "coffee", price: 130, img: "A190-hot-chocolate",
       en: { name: "Hot Chocolate" },
       am: { name: "ሆት ቸኮሊት" } },
     { cat: "coffee", price: 105, img: "A111-machine-brewed-coffee",
