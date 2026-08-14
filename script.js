@@ -872,7 +872,7 @@
 
   // Same number used for the WhatsApp contact card and floating button —
   // update this once and every WhatsApp touchpoint on the site stays in sync.
-  const RESTAURANT_WHATSAPP_NUMBER = "251XXXXXXXXX";
+  const RESTAURANT_WHATSAPP_NUMBER = "251968809170";
 
   const RESERVATION_LABELS = {
     en: { title: "New Table Reservation", name: "Name", phone: "Phone", date: "Date", time: "Time", guests: "Guests", notes: "Special Requests" },
