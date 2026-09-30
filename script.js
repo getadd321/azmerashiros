@@ -272,11 +272,11 @@
     fasting: { en: "Fasting Food", am: "የጾም ምግቦች" },
     nonfasting: { en: "Non-Fasting", am: "የፍስክ ምግቦች" },
     breakfast: { en: "Breakfast", am: "ቁርስ" },
-    coffee: { en: "Hot Coffee", am: "የቡና ነገሮች" },
-    tea: { en: "Hot Drinks", am: "የሻይ ነገሮች" },
-    juice: { en: "Juice", am: "ጭማቂ" },
-    soft: { en: "Soft Drinks", am: "ለስላሳ መጠጦች" },
-    iced: { en: "Iced Drinks", am: "የበረዶ መጠጦች" },
+    coffee: { en: "Hot Coffee", am: "ትኩስ ነገር" },
+    //tea: { en: "Hot Drinks", am: "የሻይ ነገሮች" },
+    //juice: { en: "Juice", am: "ጭማቂ" },
+    soft: { en: "Cold Drinks", am: "ቀዝቃዛ ነገሮች" },
+   // iced: { en: "Iced Drinks", am: "የበረዶ መጠጦች" },
     extras: { en: "Wine-Beer", am: "ወይን፟ቢራ" },
   };
 
