@@ -277,7 +277,7 @@
     //juice: { en: "Juice", am: "ጭማቂ" },
     soft: { en: "Cold Drinks", am: "ቀዝቃዛ ነገሮች" },
    // iced: { en: "Iced Drinks", am: "የበረዶ መጠጦች" },
-    extras: { en: "Wine-Beer", am: "ወይን፟ቢራ" },
+    extras: { en: "Wine/Beer", am: "ወይን/ቢራ" },
   };
 
   const MENU = [
@@ -589,7 +589,7 @@
    { cat: "coffee", price: 98, img: "A118-lemon-tea",
       en: { name: "Lemon Tea" },
       am: { name: "ሎሚ ሻይ" } },
-    { cat: "tea", price: 90, img: "A195-moringa-tea",
+    { cat: "coffee", price: 90, img: "A195-moringa-tea",
       en: { name: "Moringa Tea" },
       am: { name: "ሞሪንጋ ሻይ" } },
     { cat: "coffee", price: 248, img: "A113-special-tea",
