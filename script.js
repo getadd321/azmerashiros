@@ -561,9 +561,7 @@
     { cat: "coffee", price: 130, img: "A194-coffee-kerebot",
       en: { name: "Coffee Kerebot (Ethiopian Blend)" },
       am: { name: "ኮፊ ከረቦት" } },
-    { cat: "coffee", price: 110, img: "A189-cortado",
-      en: { name: "Cortado" },
-        { cat: "coffee", price: 130, img: "A190-hot-chocolate",
+   { cat: "coffee", price: 130, img: "A190-hot-chocolate",
       en: { name: "Hot Chocolate" },
       am: { name: "ሆት ቸኮሊት" } },
        
